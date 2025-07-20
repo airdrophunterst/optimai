@@ -2,6 +2,8 @@
 
 An automated bot for OptimAi Network that handles account registration, daily check-ins, and node registration with advanced payload generation.
 
+## More tools here: https://amautomarket.com/
+
 ## Features
 
 - ✅ **Automated Login**: OAuth-based authentication with CAPTCHA support
