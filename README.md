@@ -58,6 +58,8 @@ Edit `login_accounts.json` with your OptimAi accounts:
 
 Add your 2captcha API key to `2captcha_key.txt`:
 
+- Get API key here: [2captcha](https://2captcha.com/?from=24402314)
+
 ```
 your_2captcha_api_key_here
 ```
